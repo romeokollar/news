@@ -1,0 +1,24 @@
+{
+  "name": "news",
+  "version": "1.0.0",
+  "dependencies": {
+    "express": "4.9.4",
+    "jade": "1.7.0",    
+    "feedparser": "0.19.2",
+    "moment": "2.8.3"
+  },
+  "description": "News Website",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/romeokollar/news"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "news"
+  ],
+  "author": "Romeo Kollar",
+  "license": "MIT"
+}
